@@ -2,7 +2,7 @@
 
 October 2019
 
-Inspired by: https://create.arduino.cc/projecthub/wbowl4/ultrasonic-tripwire-fe5475
+Tutorial by: https://create.arduino.cc/projecthub/wbowl4/ultrasonic-tripwire-fe5475
 
 Youtube Demonstration: https://youtu.be/Rqj4HV-veuM
 
